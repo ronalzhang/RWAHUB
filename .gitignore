@@ -1,0 +1,22 @@
+# 数据库文件
+*.db
+!app.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境文件
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo 
